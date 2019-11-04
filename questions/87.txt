@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the game Tom Clancy&#039;s Rainbow 6 Siege, what organization is Valkyrie from?","correct_answer":"Navy Seals","incorrect_answers":["S.A.S","G.I.G.N","F.B.I"],"category_id":11,"question_id":87,"difficulty_id":2}

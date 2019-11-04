@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?","correct_answer":"Myst","incorrect_answers":["Shivers","Doom","Tropico"],"category_id":11,"question_id":302,"difficulty_id":3}

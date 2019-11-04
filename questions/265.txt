@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What is the half-life of Uranium-235?","correct_answer":"703,800,000 years","incorrect_answers":["4,300,400,000 years","1,260,900,000 years","Uranium-235 is a stable isotope"],"category_id":4,"question_id":265,"difficulty_id":2}

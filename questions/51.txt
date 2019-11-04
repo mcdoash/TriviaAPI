@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"easy","question":"Which gas forms about 78% of the Earth&rsquo;s atmosphere?","correct_answer":"Nitrogen","incorrect_answers":["Oxygen","Argon","Carbon Dioxide"],"category_id":4,"question_id":51,"difficulty_id":1}

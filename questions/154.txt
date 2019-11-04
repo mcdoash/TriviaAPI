@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"Which one of these Swedish companies was founded in 1943?","correct_answer":"IKEA","incorrect_answers":["H &amp; M","Lindex","Clas Ohlson"],"category_id":6,"question_id":154,"difficulty_id":3}

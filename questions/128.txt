@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.","correct_answer":"SpongeBob SquarePants ","incorrect_answers":["Patrick Star","Squidward Tentacles","Mr. Krabs"],"category_id":5,"question_id":128,"difficulty_id":1}

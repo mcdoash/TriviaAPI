@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In Monster Hunter Generations, which of the following monsters are a part of the &quot;Fated Four&quot;?","correct_answer":"Astalos","incorrect_answers":["Gore Magala","Malfestio","Arzuros"],"category_id":11,"question_id":244,"difficulty_id":2}

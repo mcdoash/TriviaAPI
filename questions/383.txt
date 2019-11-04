@@ -1,0 +1,1 @@
+{"category":"Entertainment: Comics","type":"multiple","difficulty":"hard","question":"Which of the following rings from the DC Comics&#039; &quot;Lantern Corps&quot; are classified as Parasitic?","correct_answer":"Indigo (Compassion)","incorrect_answers":["Green (Willpower)","White (Life)","Yellow (Fear)"],"category_id":18,"question_id":383,"difficulty_id":3}

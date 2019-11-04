@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"At what temperature does water boil?","correct_answer":"212&deg;F","incorrect_answers":["200&deg;F","181&deg;F","178&deg;F"],"category_id":4,"question_id":406,"difficulty_id":2}

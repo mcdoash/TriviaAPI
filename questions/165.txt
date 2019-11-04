@@ -1,0 +1,1 @@
+{"category":"Entertainment: Comics","type":"multiple","difficulty":"easy","question":"What is the alter-ego of the DC comics character &quot;Superman&quot;?","correct_answer":"Clark Kent","incorrect_answers":["Bruce Wayne","Arthur Curry","John Jones"],"category_id":18,"question_id":165,"difficulty_id":1}

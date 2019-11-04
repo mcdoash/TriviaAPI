@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"What is the name of the assassin in the first &quot;Hellboy&quot; movie?","correct_answer":"Karl Ruprecht Kroenen","incorrect_answers":["Klaus Werner von Krupt","Grigori Efimovich Rasputin","Ilsa Haupstein"],"category_id":3,"question_id":186,"difficulty_id":3}

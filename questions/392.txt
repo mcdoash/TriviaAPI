@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"hard","question":"What is the molecular formula of Glucose?","correct_answer":"C6H12O6","incorrect_answers":["C2H4O2","K+","CH4"],"category_id":4,"question_id":392,"difficulty_id":3}

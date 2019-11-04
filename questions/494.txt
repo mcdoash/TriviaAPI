@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?","correct_answer":"The Falador Massacre","incorrect_answers":["Noclip glitch","Party-hat Duplication Glitch","TzHaar Massacre"],"category_id":11,"question_id":494,"difficulty_id":2}

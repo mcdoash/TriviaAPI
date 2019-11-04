@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"What is the capital of the US state Nevada?","correct_answer":"Carson City","incorrect_answers":["Las Vegas","Henderson","Reno"],"category_id":10,"question_id":480,"difficulty_id":2}

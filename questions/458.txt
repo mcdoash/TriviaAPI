@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"medium","question":"In what year did &quot;Bob Ross&quot; die?","correct_answer":"1995","incorrect_answers":["1986","1989","1997"],"category_id":13,"question_id":458,"difficulty_id":2}

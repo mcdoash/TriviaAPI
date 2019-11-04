@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?","correct_answer":"Warm Painting","incorrect_answers":["Jolly Painting","Neutral Painting","Wistful Painting"],"category_id":11,"question_id":367,"difficulty_id":3}

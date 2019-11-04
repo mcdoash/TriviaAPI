@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"hard","question":"What is the name of the process that sends one quibit of information using two bits of classical information?","correct_answer":"Quantum Teleportation","incorrect_answers":["Super Dense Coding","Quantum Entanglement","Quantum Programming"],"category_id":17,"question_id":413,"difficulty_id":3}

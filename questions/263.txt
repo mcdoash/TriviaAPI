@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"hard","question":"Which day did World War I begin?","correct_answer":"July 28","incorrect_answers":["January 28","June 28","April 28"],"category_id":7,"question_id":263,"difficulty_id":3}

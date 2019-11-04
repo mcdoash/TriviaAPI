@@ -1,0 +1,1 @@
+{"category":"Mythology","type":"multiple","difficulty":"hard","question":"In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?","correct_answer":"Nidhogg","incorrect_answers":["Bragi","Odin","Ymir"],"category_id":21,"question_id":321,"difficulty_id":3}

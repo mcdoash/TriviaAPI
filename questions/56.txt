@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"The creator of the Enigma Cypher and Machine was of what nationality?","correct_answer":"German","incorrect_answers":["American","British","Polish"],"category_id":7,"question_id":56,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What is the name of the first boss the player encounters in the 2017 game, &quot;Little Nightmares&quot;?","correct_answer":"The Janitor","incorrect_answers":["The Warden","The Caretaker","The Overseer"],"category_id":11,"question_id":206,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Vehicles","type":"multiple","difficulty":"medium","question":"What country is the Hussarya supercar, made by the car manufacturer &quot;Arrinera&quot;, assembled in?","correct_answer":"Poland","incorrect_answers":["China","Sweden","Italy"],"category_id":15,"question_id":54,"difficulty_id":2}

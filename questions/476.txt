@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"What is the only state in the United States that does not have a flag in a shape with 4 edges?","correct_answer":"Ohio","incorrect_answers":["Florida","Idaho","New Mexico"],"category_id":10,"question_id":476,"difficulty_id":1}

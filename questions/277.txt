@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Who is the main character of &quot;Metal Gear Solid 3&quot;?","correct_answer":"Naked Snake","incorrect_answers":["Solid Snake","Liquid Snake","Venom Snake"],"category_id":11,"question_id":277,"difficulty_id":2}

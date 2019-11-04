@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"Which of the following is not another name for the eggplant?","correct_answer":"Potimarron","incorrect_answers":["Brinjal","Guinea Squash","Melongene"],"category_id":6,"question_id":436,"difficulty_id":3}

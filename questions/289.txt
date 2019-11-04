@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"medium","question":"Where was Kanye West born?","correct_answer":"Atlanta, Georgia","incorrect_answers":["Chicago, Illinois","Los Angeles, California","Detroit, Michigan"],"category_id":13,"question_id":289,"difficulty_id":2}

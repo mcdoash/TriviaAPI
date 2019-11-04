@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"The humerus, paired radius, and ulna come together to form what joint?","correct_answer":"Elbow","incorrect_answers":["Knee","Sholder","Ankle"],"category_id":4,"question_id":430,"difficulty_id":2}

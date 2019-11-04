@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In what year was the first &quot;Mass Effect&quot; game released?","correct_answer":"2007","incorrect_answers":["2008","2009","2010"],"category_id":11,"question_id":444,"difficulty_id":1}

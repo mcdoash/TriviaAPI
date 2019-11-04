@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"What is the capital of Belarus?","correct_answer":"Minsk","incorrect_answers":["Warsaw","Kiev","Vilnius"],"category_id":10,"question_id":492,"difficulty_id":2}

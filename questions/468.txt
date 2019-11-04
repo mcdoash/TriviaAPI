@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"hard","question":"Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?","correct_answer":"Rudyard Kipling","incorrect_answers":["Edgar Allan Poe","William Shakespeare","William Wordsworth"],"category_id":9,"question_id":468,"difficulty_id":3}

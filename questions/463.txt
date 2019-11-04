@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"Who created the &quot;Metal Gear&quot; Series?","correct_answer":"Hideo Kojima","incorrect_answers":["Hiroshi Yamauchi","Shigeru Miyamoto","Gunpei Yokoi"],"category_id":11,"question_id":463,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the beginning of the game &quot;Sonic Adventure&quot;, what color Chaos Emerald does Tails own?","correct_answer":"Purple","incorrect_answers":["Red","Green","Blue"],"category_id":11,"question_id":460,"difficulty_id":2}

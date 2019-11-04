@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"easy","question":"Who is the colossal titan in &quot;Attack On Titan&quot;?","correct_answer":"Bertolt Hoover","incorrect_answers":["Reiner","Eren","Sasha"],"category_id":16,"question_id":260,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"How many times was Albert Einstein married in his lifetime?","correct_answer":"Twice","incorrect_answers":["Five","Thrice","Once"],"category_id":7,"question_id":482,"difficulty_id":2}

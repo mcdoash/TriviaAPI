@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"Which one of these countries borders with Poland?","correct_answer":"Lithuania","incorrect_answers":["France","Norway","Netherlands"],"category_id":10,"question_id":247,"difficulty_id":2}

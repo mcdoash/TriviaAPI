@@ -1,0 +1,1 @@
+{"category":"Sports","type":"multiple","difficulty":"easy","question":"The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?","correct_answer":"August 21","incorrect_answers":["August 23","August 19","August 17"],"category_id":2,"question_id":227,"difficulty_id":1}

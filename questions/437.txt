@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"Who voices for Ruby in the animated series RWBY?","correct_answer":"Lindsay Jones","incorrect_answers":["Tara Strong","Jessica Nigri","Hayden Panettiere"],"category_id":5,"question_id":437,"difficulty_id":1}

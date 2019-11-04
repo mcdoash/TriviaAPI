@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"medium","question":"In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.","correct_answer":"Frankenstein&#039;s monster","incorrect_answers":["Dracula","The Thing","The Invisible Man"],"category_id":9,"question_id":242,"difficulty_id":2}

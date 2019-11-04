@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"hard","question":"What was the callsign of Commander William Adama in Battlestar Galactica (2004)?","correct_answer":"Husker","incorrect_answers":["Starbuck","Apollo","Crashdown"],"category_id":12,"question_id":169,"difficulty_id":3}

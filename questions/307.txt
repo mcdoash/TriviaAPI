@@ -1,0 +1,1 @@
+{"category":"Entertainment: Comics","type":"multiple","difficulty":"hard","question":"In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?","correct_answer":"Scarecrow","incorrect_answers":["Bane","Calendar Man","Clayface"],"category_id":18,"question_id":307,"difficulty_id":3}

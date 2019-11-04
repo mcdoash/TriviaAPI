@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What does the yellow diamond on the NFPA 704 fire diamond represent?","correct_answer":"Reactivity","incorrect_answers":["Health","Flammability","Radioactivity"],"category_id":4,"question_id":69,"difficulty_id":2}

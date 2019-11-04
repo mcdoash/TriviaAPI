@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?","correct_answer":"July 16, 1945","incorrect_answers":["June 22, 1945","August 6, 1945","April 5, 1945"],"category_id":7,"question_id":399,"difficulty_id":2}

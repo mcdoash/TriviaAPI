@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"The human right lung has how many lobes?","correct_answer":"3","incorrect_answers":["4","2","1"],"category_id":4,"question_id":193,"difficulty_id":2}

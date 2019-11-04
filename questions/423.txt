@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"Which of the following is NOT a Nintendo game console?","correct_answer":"Dreamcast","incorrect_answers":["SNES","Wii","Switch"],"category_id":11,"question_id":423,"difficulty_id":1}

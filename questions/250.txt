@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"hard","question":"In Star Trek, what is the name of Spock&#039;s father?","correct_answer":"Sarek","incorrect_answers":["Tuvok","T&#039;Pal","Surak"],"category_id":12,"question_id":250,"difficulty_id":3}

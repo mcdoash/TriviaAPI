@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What was the first PlayStation game to require the use of the DualShock controller?","correct_answer":"Ape Escape","incorrect_answers":["Metal Gear","Tekken ","Tomba 2!"],"category_id":11,"question_id":148,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"hard","question":"What does the International System of Quantities refer 1024 bytes as?","correct_answer":"Kibibyte","incorrect_answers":["Kylobyte","Kilobyte","Kelobyte"],"category_id":17,"question_id":457,"difficulty_id":3}

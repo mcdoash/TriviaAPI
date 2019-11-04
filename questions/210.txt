@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?","correct_answer":"Tatsuya","incorrect_answers":["Montoya","Tomohisa","Minato"],"category_id":16,"question_id":210,"difficulty_id":2}

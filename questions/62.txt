@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"hard","question":"What year was &quot;JoJo&#039;s Bizarre Adventure: Phantom Blood&quot; first released?","correct_answer":"1987","incorrect_answers":["2013","1983","1995"],"category_id":16,"question_id":62,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What was the first weapon pack for &quot;PAYDAY 2&quot;?","correct_answer":"The Gage Weapon Pack #1","incorrect_answers":["The Overkill Pack","The Gage Chivalry Pack","The Gage Historical Pack"],"category_id":11,"question_id":159,"difficulty_id":2}

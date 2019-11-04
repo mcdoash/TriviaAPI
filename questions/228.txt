@@ -1,0 +1,1 @@
+{"category":"Sports","type":"multiple","difficulty":"easy","question":"Which country will host the 2020 Summer Olympics?","correct_answer":"Japan","incorrect_answers":["China","Australia","Germany"],"category_id":2,"question_id":228,"difficulty_id":1}

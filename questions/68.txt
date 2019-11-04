@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"medium","question":"Who is the &quot;dumb blonde&quot; character in Nickelodeon&#039;s &quot;The Loud House&quot;?","correct_answer":"Leni","incorrect_answers":["Luan","Luna","Lincoln"],"category_id":5,"question_id":68,"difficulty_id":2}

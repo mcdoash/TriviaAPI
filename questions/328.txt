@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"medium","question":"Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?","correct_answer":"The Party","incorrect_answers":["The Weather Girls","The Pussycat Dolls","The Cheetah Girls"],"category_id":13,"question_id":328,"difficulty_id":2}

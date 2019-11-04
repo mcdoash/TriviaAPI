@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?","correct_answer":"Key","incorrect_answers":["Sword","Pen","Cellphone"],"category_id":6,"question_id":349,"difficulty_id":1}

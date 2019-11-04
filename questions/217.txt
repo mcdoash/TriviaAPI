@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"hard","question":"What is the sum of all the tiles in a standard box of Scrabble?","correct_answer":"187","incorrect_answers":["207","197","177"],"category_id":14,"question_id":217,"difficulty_id":3}

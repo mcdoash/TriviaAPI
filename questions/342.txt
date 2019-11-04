@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"easy","question":"How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?","correct_answer":"8","incorrect_answers":["6","4","5"],"category_id":16,"question_id":342,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?","correct_answer":"Link","incorrect_answers":["Wario","Q*bert","Solid Snake"],"category_id":11,"question_id":104,"difficulty_id":2}

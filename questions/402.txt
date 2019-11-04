@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Which is not a playable character in the 2005 video game Killer7?","correct_answer":"Frank Smith","incorrect_answers":["Mask de Smith","Dan Smith","Coyote Smith"],"category_id":11,"question_id":402,"difficulty_id":2}

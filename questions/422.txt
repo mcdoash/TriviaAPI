@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Which of the following Presidents of the United States was assassinated?","correct_answer":"William McKinley","incorrect_answers":["Lyndon Johnson","Chester Arthur","Franklin Roosevelt"],"category_id":7,"question_id":422,"difficulty_id":2}

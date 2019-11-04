@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the PAYDAY series, who is the iconic leader of the PAYDAY gang?","correct_answer":"Dallas","incorrect_answers":["Wolf","Chains","Hoxton"],"category_id":11,"question_id":346,"difficulty_id":2}

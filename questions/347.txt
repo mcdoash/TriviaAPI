@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What is the main character of Metal Gear Solid 2?","correct_answer":"Raiden","incorrect_answers":["Solidus Snake","Big Boss","Venom Snake"],"category_id":11,"question_id":347,"difficulty_id":2}

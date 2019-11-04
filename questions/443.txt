@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What stage of development do the majority of eukaryotic cells remain in for most of their life?","correct_answer":"Interphase","incorrect_answers":["Prophase","Stasis","Telophase"],"category_id":4,"question_id":443,"difficulty_id":2}

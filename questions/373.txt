@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?","correct_answer":"Excalipoor","incorrect_answers":["Excalibore","Excalisnore","Excalisore"],"category_id":11,"question_id":373,"difficulty_id":3}

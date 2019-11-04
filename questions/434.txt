@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"medium","question":"The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?","correct_answer":"Taiwan","incorrect_answers":["United States","Germany","China (People&#039;s Republic of)"],"category_id":17,"question_id":434,"difficulty_id":2}

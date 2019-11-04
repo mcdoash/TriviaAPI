@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?","correct_answer":"Head","incorrect_answers":["Arm","Leg","Chest"],"category_id":11,"question_id":438,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?","correct_answer":"HRL-7","incorrect_answers":["Heavy Crossbow","Thanatos .50 cal","Broomstick Pistol"],"category_id":11,"question_id":167,"difficulty_id":2}

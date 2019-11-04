@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"medium","question":"In which of these TV shows did the chef Gordon Ramsay not appear?","correct_answer":"Auction Hunters","incorrect_answers":["Ramsay&#039;s Kitchen Nightmares","Hotel Hell","Hell&#039;s Kitchen"],"category_id":13,"question_id":500,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?","correct_answer":"The Bible","incorrect_answers":["The Halo","Brimstone","Book of Shadows"],"category_id":11,"question_id":164,"difficulty_id":3}

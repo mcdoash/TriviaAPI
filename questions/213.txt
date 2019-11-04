@@ -1,0 +1,1 @@
+{"category":"Science: Gadgets","type":"multiple","difficulty":"easy","question":"What round is a classic AK-47 chambered in?","correct_answer":"7.62x39mm","incorrect_answers":["7.62x51mm","5.56x45mm","5.45x39mm"],"category_id":22,"question_id":213,"difficulty_id":1}

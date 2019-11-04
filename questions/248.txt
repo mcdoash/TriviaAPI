@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What CS:GO case contains the Butterfly Knife?","correct_answer":"Breakout Case","incorrect_answers":["Shadow Case","Vanguard Case","Esports 2014 Case"],"category_id":11,"question_id":248,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?","correct_answer":"Scarlett Johansson","incorrect_answers":["Jared Leto","Will Smith","Margot Robbie"],"category_id":3,"question_id":229,"difficulty_id":1}

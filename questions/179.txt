@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?","correct_answer":"Sasha","incorrect_answers":["Betty","Anna","Diana"],"category_id":11,"question_id":179,"difficulty_id":1}

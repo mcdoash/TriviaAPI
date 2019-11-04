@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"Which country is the home of the largest Japanese population outside of Japan?","correct_answer":"Brazil","incorrect_answers":["China","Russia","The United States"],"category_id":10,"question_id":157,"difficulty_id":1}

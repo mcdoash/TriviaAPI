@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What is the atomic number of the element Strontium?","correct_answer":"38","incorrect_answers":["73","47","11"],"category_id":4,"question_id":59,"difficulty_id":2}

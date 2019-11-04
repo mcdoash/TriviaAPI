@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Which Sonic the Hedgehog game introudced Knuckles the Echidna?","correct_answer":"Sonic the Hedgehog 3","incorrect_answers":["Sonic the Hedgehog 2","Sonic &amp; Knuckles","Sonic Adventure"],"category_id":11,"question_id":264,"difficulty_id":2}

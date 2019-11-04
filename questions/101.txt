@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"medium","question":"What does the acronym CDN stand for in terms of networking?","correct_answer":"Content Delivery Network","incorrect_answers":["Content Distribution Network","Computational Data Network","Compressed Data Network"],"category_id":17,"question_id":101,"difficulty_id":2}

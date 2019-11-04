@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"medium","question":"In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?","correct_answer":"Laura Roslin","incorrect_answers":["William Adama","Tricia Helfer","Harry Stills"],"category_id":12,"question_id":84,"difficulty_id":2}

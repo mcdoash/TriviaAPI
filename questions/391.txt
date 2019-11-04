@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"On what day did Germany invade Poland?","correct_answer":"September 1, 1939","incorrect_answers":["December 7, 1941","June 22, 1941","July 7, 1937"],"category_id":7,"question_id":391,"difficulty_id":2}

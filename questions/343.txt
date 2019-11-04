@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"hard","question":"Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?","correct_answer":"Wyvern","incorrect_answers":["Pokemon","Dominion","Yu-Gi-Oh"],"category_id":14,"question_id":343,"difficulty_id":3}

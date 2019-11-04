@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"easy","question":"What was the cause of Marilyn Monroes suicide?","correct_answer":"Drug Overdose","incorrect_answers":["Knife Attack","House Fire","Gunshot"],"category_id":13,"question_id":366,"difficulty_id":1}

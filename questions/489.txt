@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?","correct_answer":"Air","incorrect_answers":["The Schwartz","Princess Lonestar","Meatballs"],"category_id":3,"question_id":489,"difficulty_id":1}

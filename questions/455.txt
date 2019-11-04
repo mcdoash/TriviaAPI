@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?","correct_answer":"Bobby Darin","incorrect_answers":["Louis Armstrong","Frank Sinatra","Dean Martin"],"category_id":3,"question_id":455,"difficulty_id":2}

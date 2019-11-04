@@ -1,0 +1,1 @@
+{"category":"Sports","type":"multiple","difficulty":"medium","question":"How many scoring zones are there on a conventional dart board?","correct_answer":"82","incorrect_answers":["62","42","102"],"category_id":2,"question_id":53,"difficulty_id":2}

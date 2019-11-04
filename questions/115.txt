@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?","correct_answer":"Sniper","incorrect_answers":["Heavy","Soldier","Scout"],"category_id":11,"question_id":115,"difficulty_id":2}

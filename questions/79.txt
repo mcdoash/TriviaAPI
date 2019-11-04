@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"medium","question":"Which of these people was NOT a founder of Apple Inc?","correct_answer":"Jonathan Ive","incorrect_answers":["Steve Jobs","Ronald Wayne","Steve Wozniak"],"category_id":17,"question_id":79,"difficulty_id":2}

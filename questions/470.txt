@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"The song &#039;Little April Shower&#039; features in which Disney cartoon film?","correct_answer":"Bambi","incorrect_answers":["Cinderella","Pinocchio","The Jungle Book"],"category_id":5,"question_id":470,"difficulty_id":1}

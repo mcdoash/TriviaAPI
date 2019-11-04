@@ -1,0 +1,1 @@
+{"category":"Science: Mathematics","type":"multiple","difficulty":"hard","question":"What is the approximate value of mathematical constant e?","correct_answer":"2.72","incorrect_answers":["3.14","1.62","1.41"],"category_id":1,"question_id":135,"difficulty_id":3}

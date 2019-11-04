@@ -1,0 +1,1 @@
+{"category":"Politics","type":"multiple","difficulty":"medium","question":"Who was the 40th President of the USA?","correct_answer":"Ronald Reagan","incorrect_answers":["Jimmy Carter","Bill Clinton","Richard Nixon"],"category_id":20,"question_id":474,"difficulty_id":2}

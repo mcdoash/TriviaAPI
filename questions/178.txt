@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?","correct_answer":"Dan Marino","incorrect_answers":["John Elway","Tom Brady","Joe Montana"],"category_id":3,"question_id":178,"difficulty_id":2}

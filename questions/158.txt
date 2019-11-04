@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Which of these characters was NOT planned to be playable for Super Smash Bros. 64?","correct_answer":"Peach","incorrect_answers":["Bowser","Mewtwo","King Dedede"],"category_id":11,"question_id":158,"difficulty_id":2}

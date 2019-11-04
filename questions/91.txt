@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"hard","question":"The Harvard architecture for micro-controllers added which additional bus?","correct_answer":"Instruction","incorrect_answers":["Address","Data","Control"],"category_id":17,"question_id":91,"difficulty_id":3}

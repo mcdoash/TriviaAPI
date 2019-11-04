@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ","correct_answer":"Polio","incorrect_answers":["Cancer","Meningitis","HIV"],"category_id":7,"question_id":134,"difficulty_id":2}

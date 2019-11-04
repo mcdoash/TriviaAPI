@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"In &quot;JoJo&#039;s Bizarre Adventure&quot;, which of the following Stands does NOT have a time-based ability?","correct_answer":"20th Century Boy","incorrect_answers":["Made in Heaven","Star Platinum","The World"],"category_id":16,"question_id":258,"difficulty_id":2}

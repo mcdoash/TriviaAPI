@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"medium","question":"Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?","correct_answer":"Hans Christian Andersen","incorrect_answers":["Charles Dickens","Lewis Carroll","Oscar Wilde"],"category_id":9,"question_id":475,"difficulty_id":2}

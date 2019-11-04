@@ -1,0 +1,1 @@
+{"category":"Animals","type":"multiple","difficulty":"hard","question":"What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?","correct_answer":"Hemocyanin","incorrect_answers":["Cytochrome","Iron","Methionine"],"category_id":23,"question_id":335,"difficulty_id":3}

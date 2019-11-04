@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"easy","question":"Which of these Bojack Horseman characters is a human?","correct_answer":"Todd Chavez","incorrect_answers":["Lennie Turtletaub","Princess Carolyn","Tom Jumbo-Grumbo"],"category_id":12,"question_id":142,"difficulty_id":1}

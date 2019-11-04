@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"Which of these is NOT a Disney cartoon character?","correct_answer":"Daffy Duck","incorrect_answers":["Donald Duck","Daisy Duck","Scrooge McDuck"],"category_id":5,"question_id":184,"difficulty_id":1}

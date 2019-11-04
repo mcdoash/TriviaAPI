@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"medium","question":"The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?","correct_answer":"My Struggle","incorrect_answers":["My Hatred","My Sadness","My Desire"],"category_id":9,"question_id":108,"difficulty_id":2}

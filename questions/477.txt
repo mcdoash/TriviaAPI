@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"Which of these countries is NOT located in Africa?","correct_answer":"Suriname","incorrect_answers":["Burkina Faso","Mozambique","Algeria"],"category_id":10,"question_id":477,"difficulty_id":2}

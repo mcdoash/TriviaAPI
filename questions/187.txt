@@ -1,0 +1,1 @@
+{"category":"Entertainment: Comics","type":"multiple","difficulty":"medium","question":"What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?","correct_answer":"Calvin and Hobbes","incorrect_answers":["Winnie the Pooh","Albert and Pogo","Peanuts"],"category_id":18,"question_id":187,"difficulty_id":2}

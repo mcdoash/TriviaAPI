@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Which classical composer wrote the &quot;Moonlight Sonata&quot;?","correct_answer":"Ludvig Van Beethoven","incorrect_answers":["Chief Keef","Wolfgang Amadeus Mozart","Johannes Brahms"],"category_id":8,"question_id":414,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Science: Computers","type":"multiple","difficulty":"hard","question":"What vulnerability ranked #1 on the OWASP Top 10 in 2013?","correct_answer":"Injection ","incorrect_answers":["Broken Authentication","Cross-Site Scripting","Insecure Direct Object References"],"category_id":17,"question_id":85,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"hard","question":"Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?","correct_answer":"John Kay","incorrect_answers":["James Hargreaves","Richard Arkwright","John Deere"],"category_id":7,"question_id":71,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"Which ocean borders the west coast of the United States?","correct_answer":"Pacific","incorrect_answers":["Atlantic","Indian","Arctic"],"category_id":10,"question_id":341,"difficulty_id":1}

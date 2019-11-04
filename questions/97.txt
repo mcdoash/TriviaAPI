@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"hard","question":"What common name is given to the medial condition, tibial stress syndrome (MTSS)?","correct_answer":"Shin Splints","incorrect_answers":["Tennis Elbow","Carpal Tunnel","Housemaid&#039;s Knee"],"category_id":4,"question_id":97,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"Which is the largest city in Morocco?","correct_answer":"Casablanca","incorrect_answers":["Rabat","Fes","Sale"],"category_id":10,"question_id":352,"difficulty_id":2}

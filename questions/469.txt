@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"hard","question":"With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?","correct_answer":"Socrates","incorrect_answers":["Aristotle","Plato","Pythagoras"],"category_id":7,"question_id":469,"difficulty_id":3}

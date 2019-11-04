@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"What is Pikachu&#039;s National Pok&eacute;Dex Number?","correct_answer":"#025","incorrect_answers":["#001","#031","#109"],"category_id":11,"question_id":471,"difficulty_id":1}

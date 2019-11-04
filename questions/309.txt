@@ -1,0 +1,1 @@
+{"category":"Vehicles","type":"multiple","difficulty":"medium","question":"Which country has the international vehicle registration letter &#039;A&#039;?","correct_answer":"Austria","incorrect_answers":["Afghanistan","Australia","Armenia"],"category_id":15,"question_id":309,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"Which item of clothing is usually worn by a Scotsman at a wedding?","correct_answer":"Kilt","incorrect_answers":["Skirt","Dress","Rhobes"],"category_id":6,"question_id":212,"difficulty_id":2}

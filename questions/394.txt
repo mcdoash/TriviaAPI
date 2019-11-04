@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?","correct_answer":"Assyrians","incorrect_answers":["Babylonians","Hittites","Elamites"],"category_id":7,"question_id":394,"difficulty_id":2}

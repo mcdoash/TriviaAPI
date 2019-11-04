@@ -1,0 +1,1 @@
+{"category":"Mythology","type":"multiple","difficulty":"medium","question":"Who is the god of war in Polynesian mythology?","correct_answer":"&#039;Oro","incorrect_answers":["Hina","Kohara","Māui"],"category_id":21,"question_id":305,"difficulty_id":2}

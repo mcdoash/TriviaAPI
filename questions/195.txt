@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"In Chemistry, how many isomers does Butanol (C4H9OH) have?","correct_answer":"4","incorrect_answers":["3","5","6"],"category_id":4,"question_id":195,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?","correct_answer":"Aloysius O&#039;Hare","incorrect_answers":["Ted Wiggins","The Once-Ler","Grammy Norma"],"category_id":3,"question_id":454,"difficulty_id":1}

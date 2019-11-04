@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"How many independent countries are there within the continent of South America?","correct_answer":"12","incorrect_answers":["8","9","10"],"category_id":10,"question_id":418,"difficulty_id":2}

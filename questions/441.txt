@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?","correct_answer":"1 Month","incorrect_answers":["3 Weeks","1 Week","2 Months"],"category_id":6,"question_id":441,"difficulty_id":3}

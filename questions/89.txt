@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"What vault in the video game &quot;Fallout 3&quot; is the home of multiple clones named Gary?","correct_answer":"Vault 108","incorrect_answers":["Vault 101","Vault 87","Vault 21"],"category_id":11,"question_id":89,"difficulty_id":3}

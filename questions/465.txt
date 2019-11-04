@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In Finding Nemo, what was the name of Nemo&#039;s mom?","correct_answer":"Coral","incorrect_answers":["Sandy","Pearl","Shelly"],"category_id":3,"question_id":465,"difficulty_id":2}

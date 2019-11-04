@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?","correct_answer":"Dark Souls III","incorrect_answers":["Dark Souls I","Bloodborne","Demon Souls"],"category_id":11,"question_id":259,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In PROTOTYPE 2. who is referred to as &quot;Tango Primary&quot;?","correct_answer":"James Heller","incorrect_answers":["Alex Mercer","Dana Mercer","Any Goliaths roaming around"],"category_id":11,"question_id":365,"difficulty_id":1}

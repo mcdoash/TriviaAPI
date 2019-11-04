@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"easy","question":"In a standard game of Monopoly, what colour are the two cheapest properties?","correct_answer":"Brown","incorrect_answers":["Green","Yellow","Blue"],"category_id":14,"question_id":176,"difficulty_id":1}

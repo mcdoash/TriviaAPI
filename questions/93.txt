@@ -1,0 +1,1 @@
+{"category":"Sports","type":"multiple","difficulty":"easy","question":"Which English football club has the nickname &#039;The Foxes&#039;?","correct_answer":"Leicester City","incorrect_answers":["Northampton Town","Bradford City","West Bromwich Albion"],"category_id":2,"question_id":93,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"medium","question":"Baron Silas Greenback is the arch nemesis of which cartoon hero?","correct_answer":"Danger Mouse","incorrect_answers":["Bananaman","SuperTed","Captain Star"],"category_id":12,"question_id":90,"difficulty_id":2}

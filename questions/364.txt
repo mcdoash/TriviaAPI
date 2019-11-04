@@ -1,0 +1,1 @@
+{"category":"Entertainment: Musicals & Theatres","type":"multiple","difficulty":"medium","question":"In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...","correct_answer":"A million to one","incorrect_answers":["A billion to one","A trillion to one","A hundred to one"],"category_id":19,"question_id":364,"difficulty_id":2}

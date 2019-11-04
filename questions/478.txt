@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"The Japanese district Akihabara is also known by what nickname?","correct_answer":"Electric Town","incorrect_answers":["Moon Walk River","Otaku Central ","Big Eyes"],"category_id":10,"question_id":478,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"What is the Polish city known to Germans as Danzig?","correct_answer":"Gdańsk","incorrect_answers":["Warsaw","Zakopane","Poznań"],"category_id":10,"question_id":412,"difficulty_id":1}

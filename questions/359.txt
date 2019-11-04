@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"How many colors are there in a rainbow?","correct_answer":"7","incorrect_answers":["8","9","10"],"category_id":6,"question_id":359,"difficulty_id":1}

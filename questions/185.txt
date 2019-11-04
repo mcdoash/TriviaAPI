@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"Which student in Yandere Simulator is known for asking irritating and stupid questions?","correct_answer":"Midori Gurin","incorrect_answers":["Kokona Hruka","Oka Ruto","Pipi Osu"],"category_id":11,"question_id":185,"difficulty_id":1}

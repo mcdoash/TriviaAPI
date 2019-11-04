@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"What was Daft Punk&#039;s first studio album?","correct_answer":"Homework","incorrect_answers":["Discovery","Random Access Memories","Human After All"],"category_id":8,"question_id":290,"difficulty_id":1}

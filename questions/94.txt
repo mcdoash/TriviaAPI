@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"How would one say goodbye in Spanish?","correct_answer":"Adi&oacute;s","incorrect_answers":[" Hola","Au Revoir","Salir"],"category_id":6,"question_id":94,"difficulty_id":1}

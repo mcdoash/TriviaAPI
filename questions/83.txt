@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?","correct_answer":"Ursula Callistis","incorrect_answers":["Croix Meridies","Miranda Holbrook","Anne Finnelan"],"category_id":16,"question_id":83,"difficulty_id":2}

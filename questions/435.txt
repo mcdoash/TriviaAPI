@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In &quot;Clash Royale&quot; what is Arena 4 called?","correct_answer":"P.E.K.K.A&#039;s Playhouse","incorrect_answers":["Barbarian Bowl","Spell Valley","Royal Arena"],"category_id":11,"question_id":435,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"How many countries does Mexico border?","correct_answer":"3","incorrect_answers":["2","4","1"],"category_id":10,"question_id":368,"difficulty_id":1}

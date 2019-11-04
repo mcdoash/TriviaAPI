@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, where is &quot;Stamin-Up&quot; located?","correct_answer":"Generator 5","incorrect_answers":["Generator 3","Generator 4","Excavation Site"],"category_id":11,"question_id":499,"difficulty_id":3}

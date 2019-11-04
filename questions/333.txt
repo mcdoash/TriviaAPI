@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?","correct_answer":"Auto","incorrect_answers":["Eddie","Tango","Rush"],"category_id":11,"question_id":333,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?","correct_answer":"Devil May Cry 3: Dante&#039;s Awakening ","incorrect_answers":["Devil May Cry 4","Devil May Cry","Devil May Cry 2"],"category_id":11,"question_id":497,"difficulty_id":3}

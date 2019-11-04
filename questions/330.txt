@@ -1,0 +1,1 @@
+{"category":"Politics","type":"multiple","difficulty":"hard","question":"&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.","correct_answer":"George W. Bush","incorrect_answers":["John Kerry","Barack Obama","Al Gore"],"category_id":20,"question_id":330,"difficulty_id":3}

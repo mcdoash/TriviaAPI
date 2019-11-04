@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"Which of these companies does NOT manufacture automobiles?","correct_answer":"Ducati","incorrect_answers":["Nissan","GMC","Fiat"],"category_id":6,"question_id":230,"difficulty_id":2}

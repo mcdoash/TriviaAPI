@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Which of the following was NOT a capital of Assyria:","correct_answer":"Harran","incorrect_answers":["A&scaron;&scaron;ur","Kalhu","Nineveh"],"category_id":7,"question_id":395,"difficulty_id":2}

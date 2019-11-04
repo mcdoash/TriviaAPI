@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;","correct_answer":"Truth","incorrect_answers":["Answer","Cause","Source"],"category_id":6,"question_id":153,"difficulty_id":1}

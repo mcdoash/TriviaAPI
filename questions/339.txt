@@ -1,0 +1,1 @@
+{"category":"Vehicles","type":"multiple","difficulty":"hard","question":"What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in &quot;The Railway Series&quot;?","correct_answer":"LB&amp;SCR A1X","incorrect_answers":["LB&amp;SCR E2","LB&amp;SCR J1","LB&amp;SCR D1"],"category_id":15,"question_id":339,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Mythology","type":"multiple","difficulty":"medium","question":"The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?","correct_answer":"A Horse","incorrect_answers":["A Dragon","A Tiger","A Lion"],"category_id":21,"question_id":181,"difficulty_id":2}

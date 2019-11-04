@@ -1,0 +1,1 @@
+{"category":"Art","type":"multiple","difficulty":"easy","question":"Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?","correct_answer":"Salvador Dali","incorrect_answers":["Jackson Pollock","Vincent van Gogh","Edgar Degas"],"category_id":24,"question_id":401,"difficulty_id":1}

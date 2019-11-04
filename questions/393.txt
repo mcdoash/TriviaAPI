@@ -1,0 +1,1 @@
+{"category":"Science: Mathematics","type":"multiple","difficulty":"easy","question":"What&#039;s the square root of 49?","correct_answer":"7","incorrect_answers":["4","12","9"],"category_id":1,"question_id":393,"difficulty_id":1}

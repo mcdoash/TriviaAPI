@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"medium","question":"What is Scooby-Doo&#039;s real name?","correct_answer":"Scoobert","incorrect_answers":["Scooter","Scrappy","Shooby"],"category_id":5,"question_id":175,"difficulty_id":2}

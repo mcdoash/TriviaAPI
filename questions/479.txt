@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?","correct_answer":"September 11, 1941","incorrect_answers":["June 15, 1947","January 15, 1943","September 2, 1962"],"category_id":7,"question_id":479,"difficulty_id":2}

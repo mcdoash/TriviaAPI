@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"In which city did American rap producer DJ Khaled originate from?","correct_answer":"Miami","incorrect_answers":["New York","Detroit","Atlanta"],"category_id":8,"question_id":275,"difficulty_id":2}

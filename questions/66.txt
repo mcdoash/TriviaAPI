@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"What is the right way to spell the capital of Hungary?","correct_answer":"Budapest","incorrect_answers":["Boodapest","Bhudapest","Budapast"],"category_id":10,"question_id":66,"difficulty_id":2}

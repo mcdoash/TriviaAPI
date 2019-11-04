@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"easy","question":"In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?","correct_answer":"Torquay","incorrect_answers":["Blackpool","Bournemouth","Great Yarmouth"],"category_id":12,"question_id":353,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?","correct_answer":"Black Forest","incorrect_answers":["Devil&#039;s Food","Molten Chocolate","German Chocolate"],"category_id":11,"question_id":117,"difficulty_id":2}

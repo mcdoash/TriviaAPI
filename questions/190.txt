@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Where and when was the first cardboard box made for industrial use?","correct_answer":"England, 1817","incorrect_answers":["United States, 1817","England, 1917","United States, 1917"],"category_id":7,"question_id":190,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"easy","question":"In the anime Noragami who is one of the main protagonists?","correct_answer":"Yukine","incorrect_answers":["Karuha","Mineha","Mayu"],"category_id":16,"question_id":324,"difficulty_id":1}

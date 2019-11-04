@@ -1,0 +1,1 @@
+{"category":"Entertainment: Comics","type":"multiple","difficulty":"easy","question":"Who is the creator of the comic series &quot;The Walking Dead&quot;?","correct_answer":"Robert Kirkman","incorrect_answers":["Stan Lee","Malcolm Wheeler-Nicholson","Robert Crumb"],"category_id":18,"question_id":95,"difficulty_id":1}

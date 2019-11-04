@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"hard","question":"In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?","correct_answer":"Raditz","incorrect_answers":["Gohan","Vegeta","Bardock"],"category_id":16,"question_id":292,"difficulty_id":3}

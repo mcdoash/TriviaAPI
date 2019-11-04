@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.","correct_answer":"low, all","incorrect_answers":["low, some","high, all","high, some"],"category_id":4,"question_id":99,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?","correct_answer":"Dr.Dre","incorrect_answers":["Ol&#039; Dirty Bastard","GZA","Method Man"],"category_id":8,"question_id":245,"difficulty_id":2}

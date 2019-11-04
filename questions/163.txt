@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"Where does water from Poland Spring water bottles come from?","correct_answer":"Maine, United States","incorrect_answers":["Hesse, Germany","Masovia, Poland","Bavaria, Poland"],"category_id":6,"question_id":163,"difficulty_id":2}

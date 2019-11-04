@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"When did the United States formally declare war on Japan, entering World War II?","correct_answer":"December 8, 1941","incorrect_answers":["June 6, 1944","June 22, 1941","September 1, 1939"],"category_id":7,"question_id":491,"difficulty_id":2}

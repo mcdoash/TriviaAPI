@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"Who are the original creators of Rachet &amp; Clank?","correct_answer":"Insomniac Games","incorrect_answers":["PixelTail Games","Rare","Bethesda"],"category_id":11,"question_id":287,"difficulty_id":1}

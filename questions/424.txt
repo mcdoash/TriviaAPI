@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Who was the only US President to be elected four times?","correct_answer":"Franklin Roosevelt","incorrect_answers":["Theodore Roosevelt","George Washington","Abraham Lincoln"],"category_id":7,"question_id":424,"difficulty_id":2}

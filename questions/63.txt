@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"medium","question":"In the episode of SpongeBob SquarePants, &quot;Survival of the Idiots&quot;, Spongebob called Patrick which nickname?","correct_answer":"Pinhead","incorrect_answers":["Starfish","Larry","Dirty Dan"],"category_id":12,"question_id":63,"difficulty_id":2}

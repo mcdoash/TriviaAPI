@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Which was the first &quot;Call Of Duty: Zombies&quot; map to introduce the &quot;Wunderwaffe DG-2&quot;?","correct_answer":"Shi No Numa","incorrect_answers":["Tranzit","Kino Der Toten","Der Riese"],"category_id":11,"question_id":459,"difficulty_id":2}

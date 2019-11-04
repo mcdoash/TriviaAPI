@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Who was the mascot of SEGA mascot before &quot;Sonic the Hedgehog&quot;?","correct_answer":"Alex Kidd","incorrect_answers":["Opa Opa","NiGHTS","Ristar"],"category_id":11,"question_id":428,"difficulty_id":2}

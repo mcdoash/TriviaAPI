@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which of these Disney classics was released in 1970?","correct_answer":"The Aristocats","incorrect_answers":["One Hundred and One Dalmatians","The Fox and the Hound","The Little Mermaid"],"category_id":3,"question_id":173,"difficulty_id":2}

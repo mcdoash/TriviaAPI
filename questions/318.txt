@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?","correct_answer":"MGMT","incorrect_answers":["MSTRKRFT","STRFKR","SBTRKT"],"category_id":8,"question_id":318,"difficulty_id":2}

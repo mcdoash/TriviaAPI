@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"Which small country is located between the borders of France and Spain?","correct_answer":"Andorra","incorrect_answers":["San Marino","Vatican City","Lichtenstein"],"category_id":10,"question_id":303,"difficulty_id":1}

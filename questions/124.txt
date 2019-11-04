@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"In which year did &quot;Caravan Palace&quot; release their first album?","correct_answer":"2008","incorrect_answers":["2000","2015","2004"],"category_id":8,"question_id":124,"difficulty_id":2}

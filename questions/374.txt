@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"Who is the creator of the manga series &quot;One Piece&quot;?","correct_answer":"Eiichiro Oda","incorrect_answers":["Yoshihiro Togashi","Hayao Miyazaki","Masashi Kishimoto"],"category_id":16,"question_id":374,"difficulty_id":2}

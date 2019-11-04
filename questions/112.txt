@@ -1,0 +1,1 @@
+{"category":"Vehicles","type":"multiple","difficulty":"hard","question":"In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?","correct_answer":"Faulty ignition switch","incorrect_answers":["Malfunctioning gas pedal","Breaking fuel lines","Faulty brake pads"],"category_id":15,"question_id":112,"difficulty_id":3}

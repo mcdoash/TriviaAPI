@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?","correct_answer":"Johnny Cash","incorrect_answers":["Bob Dylan","Willie Nelson","Kris Kristofferson"],"category_id":8,"question_id":348,"difficulty_id":1}

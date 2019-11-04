@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?","correct_answer":"Ewan McGregor","incorrect_answers":["Alec Guinness","Hayden Christensen","Liam Neeson"],"category_id":3,"question_id":286,"difficulty_id":1}

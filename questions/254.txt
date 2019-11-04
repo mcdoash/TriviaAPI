@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In Terraria, which of these items is NOT crafted at a Mythril Anvil?","correct_answer":"Ankh Charm","incorrect_answers":["Venom Staff","Sky Fracture","Orichalcum Tools"],"category_id":11,"question_id":254,"difficulty_id":2}

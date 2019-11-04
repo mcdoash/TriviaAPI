@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"easy","question":"British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?","correct_answer":"The Governor","incorrect_answers":["Negan","Rick Grimes","Daryl Dixon"],"category_id":12,"question_id":456,"difficulty_id":1}

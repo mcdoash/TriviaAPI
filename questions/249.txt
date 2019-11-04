@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"What was the best selling album of 2015?","correct_answer":"Adele, 25","incorrect_answers":["Fetty Wap, Fetty Wap","Taylor Swift, 1989","Justin Bieber, Purpose"],"category_id":8,"question_id":249,"difficulty_id":1}

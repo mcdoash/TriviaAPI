@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"easy","question":"How was Socrates executed?","correct_answer":"Poison","incorrect_answers":["Decapitation","Firing squad","Crucifixion "],"category_id":7,"question_id":331,"difficulty_id":1}

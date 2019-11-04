@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?","correct_answer":"South Park","incorrect_answers":["The Simpsons","Family Guy","Bob&#039;s Burgers"],"category_id":5,"question_id":96,"difficulty_id":1}

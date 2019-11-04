@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"hard","question":"In Magic: The Gathering, which of the following was the first publicly released foil card?","correct_answer":"Lightning Dragon","incorrect_answers":["Revenant","Beast of Burden","Dirtcowl Wurm"],"category_id":14,"question_id":172,"difficulty_id":3}

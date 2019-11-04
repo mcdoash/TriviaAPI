@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"medium","question":"What is the fourth book of the Old Testament?","correct_answer":"Numbers","incorrect_answers":["Genesis","Exodus","Leviticus"],"category_id":9,"question_id":433,"difficulty_id":2}

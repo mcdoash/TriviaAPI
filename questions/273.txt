@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"easy","question":"The original Roman alphabet lacked the following letters EXCEPT:","correct_answer":"X","incorrect_answers":["W","U","J"],"category_id":7,"question_id":273,"difficulty_id":1}

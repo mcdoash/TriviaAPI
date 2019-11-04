@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"hard","question":"Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?","correct_answer":"Gossypiboma","incorrect_answers":["Gongoozler","Jentacular","Meupareunia"],"category_id":4,"question_id":385,"difficulty_id":3}

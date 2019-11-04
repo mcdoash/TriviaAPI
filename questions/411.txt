@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"How tall is One World Trade Center in New York City?","correct_answer":"1,776 ft","incorrect_answers":["1,888 ft","1,225 ft","1,960 ft"],"category_id":10,"question_id":411,"difficulty_id":2}

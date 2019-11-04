@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?","correct_answer":"Eddie Van Halen","incorrect_answers":["Steve Vai","Kirk Hammett","Zakk Wylde"],"category_id":8,"question_id":214,"difficulty_id":2}

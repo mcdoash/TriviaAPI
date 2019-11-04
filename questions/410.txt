@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:","correct_answer":"Rhyme","incorrect_answers":["Shiki","Joshua","Beat"],"category_id":11,"question_id":410,"difficulty_id":2}

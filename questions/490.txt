@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?","correct_answer":"Ultimate Swimmer","incorrect_answers":["Ultimate Detective","Ultimate Gambler","Ultimate Dancer"],"category_id":11,"question_id":490,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Television","type":"multiple","difficulty":"hard","question":"Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?","correct_answer":"Christopher Eccleston","incorrect_answers":["David Tennant","Matt Smith","Tom Baker"],"category_id":12,"question_id":462,"difficulty_id":3}

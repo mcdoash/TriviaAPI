@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What was the first &quot;Team Fortress 2&quot; update to include a war?","correct_answer":"Sniper vs. Spy Update","incorrect_answers":["WAR! Update","Meet Your Match Update","Spy Vs. Engineer Update"],"category_id":11,"question_id":397,"difficulty_id":2}

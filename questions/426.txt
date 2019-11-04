@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"easy","question":"Who wrote &quot;Harry Potter&quot;?","correct_answer":"J.K. Rowling","incorrect_answers":["J.R.R. Tolkien","Terry Pratchett","Daniel Radcliffe"],"category_id":9,"question_id":426,"difficulty_id":1}

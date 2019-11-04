@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"What is the capital of South Korea?","correct_answer":"Seoul","incorrect_answers":["Pyongyang","Taegu","Kitakyushu"],"category_id":10,"question_id":86,"difficulty_id":1}

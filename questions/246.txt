@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Which Overwatch character says the line &quot;Heroes never die!&quot;?","correct_answer":"Mercy","incorrect_answers":["Reaper","Sonic","Ana"],"category_id":11,"question_id":246,"difficulty_id":2}

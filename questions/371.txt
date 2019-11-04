@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?","correct_answer":"103","incorrect_answers":["10","59","79"],"category_id":10,"question_id":371,"difficulty_id":2}

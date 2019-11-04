@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?","correct_answer":"Figaro","incorrect_answers":["Angelo","Fernando","Dave"],"category_id":8,"question_id":220,"difficulty_id":1}

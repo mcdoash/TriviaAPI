@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"hard","question":"When Magic: The Gathering was first solicited, which of the following was it originally titled?","correct_answer":"Mana Clash","incorrect_answers":["Magic","Magic Clash","Mana Duels"],"category_id":14,"question_id":344,"difficulty_id":3}

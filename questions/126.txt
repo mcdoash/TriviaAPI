@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s easter egg will reward you with the achievement, &quot;Time Travel Will Tell&quot;?","correct_answer":"Shangri-La","incorrect_answers":["Ascension","Moon","Die Rise"],"category_id":11,"question_id":126,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?","correct_answer":"Bazooka","incorrect_answers":["Grenade","Air Strike","Mortar"],"category_id":11,"question_id":232,"difficulty_id":1}

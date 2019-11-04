@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In &quot;Team Fortress 2&quot;, how much health does a scout have when overhealed?","correct_answer":"185","incorrect_answers":["215","195","225"],"category_id":11,"question_id":207,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...","correct_answer":"x86 Assembly","incorrect_answers":["C++","C","ALGOL"],"category_id":11,"question_id":317,"difficulty_id":2}

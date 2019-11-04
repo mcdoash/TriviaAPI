@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"What is the last name of the primary female protagonist of Final Fantasy VIII?","correct_answer":"Heartilly","incorrect_answers":["Loire","Almasy","Trepe"],"category_id":11,"question_id":345,"difficulty_id":1}

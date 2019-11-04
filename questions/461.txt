@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Which of the following songs did Elton John perform following Princess Diane&#039;s passing?","correct_answer":"Candles in the Wind","incorrect_answers":["I Guess That&#039;s Why They Call It The Blues","Your Song","Island Girl"],"category_id":8,"question_id":461,"difficulty_id":1}

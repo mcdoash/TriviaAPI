@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In order to cut costs, what were most of the extras of Mad Max (1979) paid with?","correct_answer":"Beer","incorrect_answers":["Fast food","Food stamps","They weren&#039;t paid"],"category_id":3,"question_id":122,"difficulty_id":3}

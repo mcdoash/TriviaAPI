@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"easy","question":"What is the capital of Jamaica?","correct_answer":"Kingston","incorrect_answers":["Rio de Janeiro","Dar es Salaam","Kano"],"category_id":10,"question_id":98,"difficulty_id":1}

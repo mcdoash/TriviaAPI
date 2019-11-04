@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?","correct_answer":"7","incorrect_answers":["5","10","12"],"category_id":11,"question_id":138,"difficulty_id":2}

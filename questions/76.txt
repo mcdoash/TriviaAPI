@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"Which of the following bands is Tom DeLonge not a part of?","correct_answer":"+44","incorrect_answers":["Box Car Racer","Blink-182","Angels &amp; Airwaves"],"category_id":8,"question_id":76,"difficulty_id":2}

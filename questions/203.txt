@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In &quot;Call Of Duty: Zombies&quot;, what does the game traditionally reward you for completing a boss round?","correct_answer":"Max Ammo","incorrect_answers":["A Pack-A-Punched gun","Death Machine","Monkey Bombs"],"category_id":11,"question_id":203,"difficulty_id":2}

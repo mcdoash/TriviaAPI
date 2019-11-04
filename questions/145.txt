@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?","correct_answer":"Water","incorrect_answers":["Air","Earth","Fire"],"category_id":5,"question_id":145,"difficulty_id":1}

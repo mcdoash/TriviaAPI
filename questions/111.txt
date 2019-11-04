@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What was the name of the protagonist of Metal Gear Solid V: The Phantom Pain?","correct_answer":"Punished &quot;Venom&quot; Snake","incorrect_answers":["Miller","Solid Snake","Ocelot"],"category_id":11,"question_id":111,"difficulty_id":2}

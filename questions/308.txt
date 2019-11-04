@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?","correct_answer":"T-800","incorrect_answers":["I-950","T-888","T-1000"],"category_id":3,"question_id":308,"difficulty_id":2}

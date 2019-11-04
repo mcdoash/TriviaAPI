@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?","correct_answer":"2005","incorrect_answers":["2007","2015","2020"],"category_id":3,"question_id":81,"difficulty_id":3}

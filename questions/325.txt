@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"How many total monsters appear in Monster Hunter Generations?","correct_answer":"105","incorrect_answers":["100","98","73"],"category_id":11,"question_id":325,"difficulty_id":3}

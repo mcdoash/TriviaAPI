@@ -1,0 +1,1 @@
+{"category":"Entertainment: Musicals & Theatres","type":"multiple","difficulty":"medium","question":"What play is the quote &quot;Hell is other people&quot; from?","correct_answer":"No Exit","incorrect_answers":["The Devil and the Good Lord","The Condemned of Altona","The Flies"],"category_id":19,"question_id":323,"difficulty_id":2}

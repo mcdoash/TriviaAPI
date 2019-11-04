@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"What character was once considered to be the 27th letter of the alphabet?","correct_answer":"Ampersand","incorrect_answers":["Interrobang","Tilde","Pilcrow"],"category_id":6,"question_id":284,"difficulty_id":2}

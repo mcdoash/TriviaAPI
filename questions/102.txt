@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Who plays the Nemesis in the Resident Evil movies?","correct_answer":"Matthew Taylor","incorrect_answers":["Jason Dip","Eric Mabius","Jimmy Matts"],"category_id":3,"question_id":102,"difficulty_id":2}

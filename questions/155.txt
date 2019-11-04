@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"Amsterdam Centraal station is twinned with what station?","correct_answer":"London Liverpool Street","incorrect_answers":["Frankfurt (Main) Hauptbahnhof","Paris Gare du Nord","Brussels Midi"],"category_id":6,"question_id":155,"difficulty_id":2}

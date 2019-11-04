@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What is the full name of the protagonist from the SNES game Clock Tower?","correct_answer":"Jennifer Simpson","incorrect_answers":["Jennifer Barrows","Jennifer Cartwright","Jennifer Maxwell"],"category_id":11,"question_id":240,"difficulty_id":2}

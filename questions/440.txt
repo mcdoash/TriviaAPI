@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In Undertale, what&#039;s the prize for answering correctly?","correct_answer":"More questions","incorrect_answers":["New car","Mercy","Money"],"category_id":11,"question_id":440,"difficulty_id":1}

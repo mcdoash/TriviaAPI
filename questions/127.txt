@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?","correct_answer":"Momo Deviluke","incorrect_answers":["Yami (Golden Darkness)","Haruna Sairenji","Mea Kurosaki"],"category_id":16,"question_id":127,"difficulty_id":2}

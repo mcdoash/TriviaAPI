@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Adolf Hitler was born on which date?","correct_answer":"April 20, 1889","incorrect_answers":["June 12, 1889","February 6, 1889","April 16, 1889"],"category_id":7,"question_id":237,"difficulty_id":2}

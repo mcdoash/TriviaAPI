@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In Big Hero 6, what were Baymax&#039;s motions modeled after?","correct_answer":"Baby penguins","incorrect_answers":["Baby monkeys","Baby ostriches","Baby bears"],"category_id":3,"question_id":382,"difficulty_id":3}

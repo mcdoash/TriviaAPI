@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"Which country gifted the Statue of Liberty to the United States of America?","correct_answer":"France","incorrect_answers":["Spain","England","Germany"],"category_id":7,"question_id":205,"difficulty_id":2}

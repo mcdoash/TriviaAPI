@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"What video game sparked controversy because of its hidden &quot;Hot Coffee&quot; minigame?","correct_answer":"Grand Theft Auto: San Andreas","incorrect_answers":["Grand Theft Auto: Vice City","Hitman: Blood Money","Cooking Mama"],"category_id":11,"question_id":70,"difficulty_id":1}

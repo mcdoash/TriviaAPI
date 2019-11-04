@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"medium","question":"Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?","correct_answer":"The Shell","incorrect_answers":["The Limit","The Kids","The Gripes"],"category_id":5,"question_id":487,"difficulty_id":2}

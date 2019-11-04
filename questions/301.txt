@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What part of the brain takes its name from the Greek for seahorse?","correct_answer":"Hippocampus","incorrect_answers":["Cerebellum","Thalamus","Amygdala"],"category_id":4,"question_id":301,"difficulty_id":2}

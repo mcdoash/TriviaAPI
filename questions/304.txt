@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"hard","question":"Chino Moreno is the lead singer of which alternative metal band?","correct_answer":"Deftones","incorrect_answers":["Tool","Korn","Type O Negative"],"category_id":8,"question_id":304,"difficulty_id":3}

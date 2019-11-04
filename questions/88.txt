@@ -1,0 +1,1 @@
+{"category":"Entertainment: Board Games","type":"multiple","difficulty":"hard","question":"Which character class in Dungeons and Dragons 5th edition gains it&#039;s powers from making a pact with a being of higher power?","correct_answer":"Warlock","incorrect_answers":["Wizard","Sorceror","Cleric"],"category_id":14,"question_id":88,"difficulty_id":3}

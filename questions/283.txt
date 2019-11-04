@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?","correct_answer":"Goombario","incorrect_answers":["Goombella","Goombarry","Goomby"],"category_id":11,"question_id":283,"difficulty_id":2}

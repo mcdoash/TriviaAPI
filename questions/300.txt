@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"hard","question":"In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ","correct_answer":" Osteogenesis Imperfecta","incorrect_answers":["Spinocerebellar ataxia","Adrenoleukodystrophy","Cystic Fibrosis"],"category_id":9,"question_id":300,"difficulty_id":3}

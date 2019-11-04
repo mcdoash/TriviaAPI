@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"hard","question":"Townsend Coleman provided the voice for which turtle in the original 1987 series of &quot;Teenage Mutant Ninja Turtles&quot;?","correct_answer":"Michelangelo","incorrect_answers":["Leonardo","Donatello","Raphael"],"category_id":5,"question_id":467,"difficulty_id":3}

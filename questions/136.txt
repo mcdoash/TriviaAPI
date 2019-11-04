@@ -1,0 +1,1 @@
+{"category":"Sports","type":"multiple","difficulty":"medium","question":"Who was the British professional wrestler Shirley Crabtree better known as?","correct_answer":"Big Daddy","incorrect_answers":["Giant Haystacks","Kendo Nagasaki","Masambula"],"category_id":2,"question_id":136,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"hard","question":"What is the capital of Mauritius?","correct_answer":"Port Louis","incorrect_answers":["Port Moresby","Port Vila","Port-au-Prince"],"category_id":10,"question_id":262,"difficulty_id":3}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"In Big Hero 6, what fictional city is the Big Hero 6 from?","correct_answer":"San Fransokyo","incorrect_answers":["San Tokyo","Tokysisco","Sankyo"],"category_id":3,"question_id":211,"difficulty_id":1}

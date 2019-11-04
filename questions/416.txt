@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"Who voices the character &quot;Vernon Cherry&quot; in &quot;Red Dead Redemption&quot;?","correct_answer":"Casey Mongillo","incorrect_answers":["Tara Strong","Troy Baker","Rob Wiethoff"],"category_id":11,"question_id":416,"difficulty_id":2}

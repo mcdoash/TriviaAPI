@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"What is the relationship between the band members of American rock band King of Leon?","correct_answer":"Brothers &amp; cousins","incorrect_answers":["Childhood friends","Former classmates","Fraternity house members"],"category_id":8,"question_id":239,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"hard","question":"In which city, is the Big Nickel located in Canada?","correct_answer":"Sudbury, Ontario","incorrect_answers":["Calgary, Alberta","Halifax, Nova Scotia ","Victoria, British Columbia"],"category_id":10,"question_id":174,"difficulty_id":3}

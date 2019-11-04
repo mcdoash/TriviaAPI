@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"Before the 19th Century, the &quot;Living Room&quot; was originally called the...","correct_answer":"Parlor","incorrect_answers":["Open Room","Sitting Room","Loft"],"category_id":6,"question_id":100,"difficulty_id":3}

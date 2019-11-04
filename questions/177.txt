@@ -1,0 +1,1 @@
+{"category":"Vehicles","type":"multiple","difficulty":"hard","question":"What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?","correct_answer":"Cherry","incorrect_answers":["Sunny","Bluebird","Skyline"],"category_id":15,"question_id":177,"difficulty_id":3}

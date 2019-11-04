@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"medium","question":"Who voices the character &quot;Reigen&quot;  in the English dub of &quot;Mob Psycho 100&quot;?","correct_answer":"Chris Niosi","incorrect_answers":["Max Mittelman","Kyle McCarley","Casey Mongillo"],"category_id":16,"question_id":375,"difficulty_id":2}

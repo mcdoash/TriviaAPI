@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"What is the German word for &quot;spoon&quot;?","correct_answer":"L&ouml;ffel","incorrect_answers":["Gabel","Messer","Essst&auml;bchen"],"category_id":6,"question_id":319,"difficulty_id":2}

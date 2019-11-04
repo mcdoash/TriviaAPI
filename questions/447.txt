@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"What was the first monster to appear alongside Godzilla?","correct_answer":"Anguirus","incorrect_answers":["King Kong","Mothra","King Ghidora"],"category_id":3,"question_id":447,"difficulty_id":1}

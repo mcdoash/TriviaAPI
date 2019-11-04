@@ -1,0 +1,1 @@
+{"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"medium","question":"What is the standard frame rate for animation?","correct_answer":"24 FPS","incorrect_answers":["12 FPS","30 FPS","60 FPS"],"category_id":5,"question_id":279,"difficulty_id":2}

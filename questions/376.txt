@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"medium","question":"What is the capital of Estonia?","correct_answer":"Tallinn","incorrect_answers":["Helsinki","Tartu","Riga"],"category_id":10,"question_id":376,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Japanese Anime & Manga","type":"multiple","difficulty":"easy","question":"What is the name of the corgi in Cowboy Bebop?","correct_answer":"Einstein","incorrect_answers":["Edward","Rocket","Joel"],"category_id":16,"question_id":231,"difficulty_id":1}

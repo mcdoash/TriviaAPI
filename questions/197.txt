@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"hard","question":"What is the Finnish word for &quot;Finland&quot;?","correct_answer":"Suomi","incorrect_answers":["Eesti","Magyarorsz&aacute;g","Sverige"],"category_id":10,"question_id":197,"difficulty_id":3}
