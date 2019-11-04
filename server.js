@@ -2,7 +2,7 @@ const express = require("express");
 const uuid = require("uuid/v4");
 const fs = require('fs');
 const qFolder = "./questions";
-const sessionFolder = "./sessions";
+const sessionFolder = "./sessionsgit ";
 
 //create server
 let app = express();
@@ -49,6 +49,12 @@ function getQuestions(req, res, next) {
     let difficulty = req.query.difficulty;
     let category = req.query.category;
     let token = req.query.token;
+    
+    //check for valid token
+    if(token != null) {
+        
+    }
+    
     
     //get all files in directory
     fs.readdir(qFolder, function(err, files) {
@@ -139,6 +145,17 @@ function newSession(req, res, next) {
     let content = {token: tokenID, questions: []};
     
     fs.writeFileSync(file, JSON.stringify(content));
+    
+    file = sessionFolder + "/validTokens.json";
+    try {
+        let tokenList = fs.readFileSync(file);
+        JSON.parse(tokenList);
+        tokenList.push(tokenID); 
+        fs.writeFileSync(file, JSON.stringify(tokenList));
+    }
+    catch(err) {
+        fs.writeFileSync(file, JSON.stringify(tokenID));
+    }
     
     res.writeHead(201, {"Content-Type": "text/plain"});
     res.write(tokenID);
