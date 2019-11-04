@@ -2,6 +2,7 @@ const express = require("express");
 const uuid = require("uuid/v4");
 const fs = require('fs');
 const qFolder = "./questions";
+const sessionFolder = "./sessions";
 
 //create server
 let app = express();
@@ -13,6 +14,8 @@ app.use(express.static("public"))
 app.get("/questions", queryParser);
 app.get("/questions", getQuestions);
 app.get("/questions", sendQuestions);
+
+app.post("/sessions", newSession);
 
 
 /*
@@ -64,7 +67,7 @@ function getQuestions(req, res, next) {
             let addQ = true;
             
             if(difficulty != null) {
-                if(difficulty != q.difficulty) {
+                if(difficulty != q.difficulty_id) {
                     addQ = false;
                 }
             }
@@ -123,12 +126,25 @@ Sends the response, which is a json object containing:
     results     an array of questions objects corresponding to the query parameters
 */
 function sendQuestions(req, res, next) { 
-    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.writeHead(200, {"Content-Type": "application/json"});
     res.write(JSON.stringify({status: res.status, results: res.questions}));
     res.end();
     next();
 }
 
+
+function newSession(req, res, next) {
+    let tokenID = uuid().toString()
+    let file = sessionFolder + "/" + tokenID + ".json";
+    let content = {token: tokenID, questions: []};
+    
+    fs.writeFileSync(file, JSON.stringify(content));
+    
+    res.writeHead(201, {"Content-Type": "text/plain"});
+    res.write(tokenID);
+    res.end();
+    next();
+}
 
 
 //start server
