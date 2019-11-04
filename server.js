@@ -2,7 +2,7 @@ const express = require("express");
 const uuid = require("uuid/v4");
 const fs = require('fs');
 const qFolder = "./questions";
-const sessionFolder = "./sessionsgit ";
+const sessionFolder = "./sessions";
 
 //create server
 let app = express();
@@ -12,6 +12,7 @@ const server = require("http").createServer(app);
 app.use(express.static("public"))
 
 app.get("/questions", queryParser);
+app.get("/questions", isValidToken);
 app.get("/questions", getQuestions);
 app.get("/questions", sendQuestions);
 
@@ -39,7 +40,27 @@ function queryParser(req, res, next){
 
 
 /*
-Gets all 
+Checks to see if requested token is valid, if it exists
+*/
+function isValidToken(req, res, next) {
+    if(req.query.token != null) {
+        let validToken = false;
+        let tokenID = req.query.token + ".json"; //to match file names
+
+        //check each file for corresponding file name
+        fs.readdirSync(sessionFolder).forEach(function(file) {
+            if(tokenID == file) {
+                validToken = true;
+            }
+        });
+        req.validToken = validToken;
+    }
+    next();
+}
+
+
+/*
+Gets questions according to request query 
 */
 function getQuestions(req, res, next) {
     let questions = [];
@@ -50,76 +71,93 @@ function getQuestions(req, res, next) {
     let category = req.query.category;
     let token = req.query.token;
     
-    //check for valid token
-    if(token != null) {
-        
+    //if invalid token, stop here
+    if(token != null && !req.validToken) {
+        res.status = 2;
     }
-    
-    
-    //get all files in directory
-    fs.readdir(qFolder, function(err, files) {
-        //create a random starting point
-        let randIndex = Math.floor(Math.random() * (files.length-limit)) + 1;
-        let i = randIndex;
-        
-        //iterate through files in directory until enough questions are gathered
-        while(questions.length < limit) {
-            //get and parse data from file at index i
-            let file = qFolder + "/" + files[i];
-            let data = fs.readFileSync(file);
-            let q = JSON.parse(data);
-            
-            //add question by default
-            let addQ = true;
-            
-            if(difficulty != null) {
-                if(difficulty != q.difficulty_id) {
-                    addQ = false;
-                }
-            }
-            if(category != null) {
-                if(category != q.category_id) {
-                    addQ = false;
-                }
-            }
-            if(token != null) {
+    //otherwise get questions
+    else {
+        //get all files in directory
+        fs.readdirSync(qFolder, function(err, files) {
+            //create a random starting point
+            let randIndex = Math.floor(Math.random() * (files.length-limit)) + 1;
+            let i = randIndex;
 
+            //iterate through files in directory until enough questions are gathered
+            while(questions.length < limit) {
+                //get and parse data from file at index i
+                let file = qFolder + "/" + files[i];
+                let data = fs.readFileSync(file);
+                let q = JSON.parse(data);
+
+                //add question by default
+                let addQ = true;
+
+                //check for matching difficulty
+                if(difficulty != null) {
+                    if(difficulty != q.difficulty_id) {
+                        addQ = false;
+                    }
+                }
+                //check for matching category
+                if(category != null) {
+                    if(category != q.category_id) {
+                        addQ = false;
+                    }
+                }
+                //handle session
+                if(token != null) {
+                    file = sessionFolder + "/" + token + ".json";
+                    data = fs.readFileSync(file);
+                    
+                    //get array of questions already recieved
+                    let qRecieved = JSON.parse(data);
+                    
+                    //check of this question has already been recieved, don't add if so
+                    for(let i=0; i<qRecieved.questions.length; i++) {
+                        if(qRecieved.questions[i] == files[i]) {
+                            addQ = false;
+                            break;
+                        }
+                    }
+                    
+                    //add question to session
+                    if(addQ) {
+                        qRecieved.questions.push(files[i]);
+                        fs.writeFileSync(file, JSON.stringify(qRecieved));
+                    }
+                }
+
+                //add to question array if all clear
+                if(addQ) {
+                    questions.push(q)
+                }
+
+                //increase index if not at end
+                if(i < (files.length-1)) {
+                    i++;
+                }
+                //loop back to the beginning if at end
+                else {
+                    i = 0;
+                }
+                //if looped through all files, break
+                if(i == randIndex) {
+                    break;
+                }
             }
-        
-            //add to question array if all clear
-            if(addQ) {
-                questions.push(q)
+            //not enough questions
+            if(questions.length < limit) {
+                res.status = 1;
             }
-            
-            //increase index if not at end
-            if(i < (files.length-1)) {
-                i++;
-            }
-            //loop back to the beginning if at end
+            //everything ok
             else {
-                i = 0;
+                res.status = 0;
+                res.questions = questions;
             }
-            //if looped through all files, break
-            if(i == randIndex) {
-                break;
-            }
-        }
-        
-        //not enough questions
-        if(questions.length < limit) {
-            res.status = 1;
-        }
-        //invalid token
-        else if(false) {
-            
-        }
-        //everything ok
-        else {
-            res.status = 0;
-            res.questions = questions;
-        }
-        next();
-    });
+        });
+    }
+    next();
 }
 
 
@@ -139,24 +177,19 @@ function sendQuestions(req, res, next) {
 }
 
 
+/*
+Creates a new session by creating a new file to hold session questions
+*/
 function newSession(req, res, next) {
-    let tokenID = uuid().toString()
-    let file = sessionFolder + "/" + tokenID + ".json";
-    let content = {token: tokenID, questions: []};
+    //create unique id
+    let tokenID = uuid().toString() 
     
+    //write new file
+    let file = sessionFolder + "/" + tokenID + ".json";
+    let content = {questions: []};
     fs.writeFileSync(file, JSON.stringify(content));
     
-    file = sessionFolder + "/validTokens.json";
-    try {
-        let tokenList = fs.readFileSync(file);
-        JSON.parse(tokenList);
-        tokenList.push(tokenID); 
-        fs.writeFileSync(file, JSON.stringify(tokenList));
-    }
-    catch(err) {
-        fs.writeFileSync(file, JSON.stringify(tokenID));
-    }
-    
+    //send response
     res.writeHead(201, {"Content-Type": "text/plain"});
     res.write(tokenID);
     res.end();
