@@ -28,6 +28,7 @@ app.delete("/sessions/:sessionid", deleteSession);
 
 */
 function queryParser(req, res, next){
+    console.log(req.query.difficulty);
     //set to default 10 if limit not specified or < 1
     if(!req.query.limit || req.query.limit < 1){
 		req.query.limit = 10; 
@@ -37,7 +38,7 @@ function queryParser(req, res, next){
 		req.query.difficulty = null;
 	}
     //invalid difficulty if not an integer or not 1-3
-    else if (!Number.isInteger(req.query.difficulty) || req.query.difficulty < 1  req.query.difficulty > 3) {
+    else if (req.query.difficulty != parseInt(req.query.difficulty, 10) || req.query.difficulty < 1 || req.query.difficulty > 3) {
         req.query.difficulty = null;
     }
     //category not specified, set to null
@@ -45,13 +46,15 @@ function queryParser(req, res, next){
 		req.query.category = null;
 	}
     //invalid category if not an integer or not 1-24
-    else if (!Number.isInteger(req.query.category) || req.query.category < 1  req.query.category > 24) {
+    else if (req.query.category != parseInt(req.query.category, 10) || req.query.category < 1 || req.query.category > 24) {
         req.query.category = null;
     }
     //token not specified, set to null
     if(!req.query.token){
 		req.query.token = null;
 	}
+    
+    console.log(req.query.difficulty);
 	next();
 }
 
@@ -97,21 +100,20 @@ function getQuestions(req, res, next) {
     else {
         //get array of all question files
         let files = fs.readdirSync(qFolder);
-        
-        //create a random starting point
-        //let randIndex = Math.floor(Math.random() * (files.length-limit)) + 1;
-        let randIndex = 375;
-        let i = randIndex;
-        
-        //RANDOM QUESTION
-
+        for(let i=files.length-1; i>0; i--) {
+            let rand = Math.floor(Math.random() * i);
+            let temp = files[rand];
+            files[rand] = files[i];
+            files[i] = temp;
+        }
+        console.log(difficulty);
         //iterate through files in directory until enough questions are gathered
-        while(questions.length < limit) {
+        for(let i=0; i<files.length; i++) {
             //get and parse data from file at index i
             let file = qFolder + "/" + files[i];
             let data = fs.readFileSync(file);
             let q = JSON.parse(data);
-
+            
             //add question by default
             let addQ = true;
 
@@ -155,16 +157,8 @@ function getQuestions(req, res, next) {
                 questions.push(q)
             }
 
-            //increase index if not at end
-            if(i < (files.length-1)) {
-                i++;
-            }
-            //loop back to the beginning if at end
-            else {
-                i = 0;
-            }
-            //if looped through all files, break
-            if(i == randIndex) {
+            //if enough questions gathered, break
+            if(questions.length == limit) {
                 break;
             }
         }
