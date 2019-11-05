@@ -28,7 +28,6 @@ app.delete("/sessions/:sessionid", deleteSession);
 
 */
 function queryParser(req, res, next){
-    console.log(req.query.difficulty);
     //set to default 10 if limit not specified or < 1
     if(!req.query.limit || req.query.limit < 1){
 		req.query.limit = 10; 
@@ -53,8 +52,6 @@ function queryParser(req, res, next){
     if(!req.query.token){
 		req.query.token = null;
 	}
-    
-    console.log(req.query.difficulty);
 	next();
 }
 
@@ -106,7 +103,7 @@ function getQuestions(req, res, next) {
             files[rand] = files[i];
             files[i] = temp;
         }
-        console.log(difficulty);
+        
         //iterate through files in directory until enough questions are gathered
         for(let i=0; i<files.length; i++) {
             //get and parse data from file at index i
@@ -253,11 +250,15 @@ function deleteSession(req, res, next) {
         console.log("Session " + token + " removed")
         
         //send success status
-        res.status(200).end();
+        res.writeHead(200, {"Content-Type": "text/plain"}});
+        res.write("Session successfully deleted");
+        res.end();
     }
     //session did not exist, send 404
     catch(err) {
-        res.status(404).end();
+        res.writeHead(404, {"Content-Type": "text/plain"}});
+        res.write("Session does not exist");
+        res.end();
     }
     next();
 }
