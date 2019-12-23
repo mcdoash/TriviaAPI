@@ -2,6 +2,7 @@
 Server providing an API to access trivia questions from a database.
 
 <hr/>
+
 ### GET /questions
 Retrieves trivia questions from the server. <br/>
 #### Query Parameters
