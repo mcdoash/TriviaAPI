@@ -1,0 +1,26 @@
+{
+  "name": "triviaapi",
+  "version": "1.0.0",
+  "description": "An api for generating trivia question data",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "package-lock.json": "^1.0.0",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcdoash/TriviaAPI.git"
+  },
+  "author": "Ashley McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcdoash/TriviaAPI/issues"
+  },
+  "homepage": "https://github.com/mcdoash/TriviaAPI#readme"
+}

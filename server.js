@@ -1,3 +1,4 @@
+//import packages
 const express = require("express");
 const uuid = require("uuid/v4");
 const fs = require('fs');
@@ -13,19 +14,20 @@ const server = require("http").createServer(app);
 //serve static files
 app.use(express.static("public"))
 
+//handle questions
 app.get("/questions", queryParser);
 app.get("/questions", isValidToken);
 app.get("/questions", getQuestions);
 app.get("/questions", sendQuestions);
 
+//handle sessions
 app.post("/sessions", newSession);
 app.get("/sessions", getSessions);
 app.delete("/sessions/:sessionid", deleteSession);
 
-//general 404
 
 /*
-
+Parses the response for invalid query parameters
 */
 function queryParser(req, res, next){
     //set to default 10 if limit not specified or < 1
@@ -95,8 +97,22 @@ function getQuestions(req, res, next) {
     }
     //otherwise get questions
     else {
+        //set up token question data
+        let tokenQs;
+        let tokenFile;
+        let qsToAdd = [];
+        if(token != null) {
+            //read token file
+            tokenFile = sessionFolder + "/" + token + ".json";
+            let tokenData = fs.readFileSync(tokenFile);
+
+            //get array of questions already received
+            tokenQs = JSON.parse(tokenData);
+        }
+        
         //get array of all question files
         let files = fs.readdirSync(qFolder);
+        //randomize questions
         for(let i=files.length-1; i>0; i--) {
             let rand = Math.floor(Math.random() * i);
             let temp = files[rand];
@@ -128,24 +144,16 @@ function getQuestions(req, res, next) {
             }
             //handle session
             if(token != null) {
-                file = sessionFolder + "/" + token + ".json";
-                data = fs.readFileSync(file);
-
-                //get array of questions already recieved
-                let qRecieved = JSON.parse(data);
-                
-                //check of this question has already been recieved, don't add if so
-                for(let j=0; j<qRecieved.questions.length; j++) {
-                    if(qRecieved.questions[j] == files[i]) {
+                //check of this question has already been received, don't add if so
+                for(let j=0; j<tokenQs.questions.length; j++) {
+                    if(tokenQs.questions[j] == q.question_id) {
                         addQ = false;
                         break;
                     }
                 }
-
-                //add question to session
+                //set question to add to session
                 if(addQ) {
-                    qRecieved.questions.push(files[i]);
-                    fs.writeFileSync(file, JSON.stringify(qRecieved));
+                    qsToAdd.push(q.question_id);
                 }
             }
 
@@ -167,6 +175,14 @@ function getQuestions(req, res, next) {
         else {
             res.status = 0;
             res.questions = questions;
+            
+            //add questions to token
+            if(token != null) {
+                for(let i=0; i<qsToAdd.length; i++) {
+                    tokenQs.questions.push(qsToAdd[i]);
+                }
+                fs.writeFileSync(tokenFile, JSON.stringify(tokenQs));
+            }
         }
     }
     next();
@@ -174,7 +190,7 @@ function getQuestions(req, res, next) {
 
 
 /*
-Sends the response, which is a json object containing:
+Sends the question response, which is a json object containing:
     status      the status of the response
                 0 if successful
                 1 if not enough questions/no results
@@ -185,12 +201,13 @@ function sendQuestions(req, res, next) {
     res.writeHead(200, {"Content-Type": "application/json"});
     res.write(JSON.stringify({status: res.status, results: res.questions}));
     res.end();
+    
     next();
 }
 
 
 /*
-Creates a new session by creating a new file to hold session questions
+Creates a new session by creating a new file to hold session data. Response is the newly created unique session id
 */
 function newSession(req, res, next) {
     //create unique id
@@ -207,12 +224,13 @@ function newSession(req, res, next) {
     res.writeHead(201, {"Content-Type": "text/plain"});
     res.write(tokenID);
     res.end();
+    
     next();
 }
 
 
 /*
-
+Gets all active sessions on the server
 */
 function getSessions(req, res, next) {
     let content = [];
@@ -224,23 +242,26 @@ function getSessions(req, res, next) {
 
             content.push(session.token);
         }
+        //in case of .DS_Store file, etc.
         catch(err) {
-            console.log(err);
+            console.log("Junk file " + file + " found in /sessions");
         }
-        //.DS_Store file
     });
 
+    //send success & tokens
     res.writeHead(200, {"Content-Type": "application/json"});
     res.write(JSON.stringify(content));
     res.end();
+    
     next();
 }
 
 
 /*
-Deletes a specified session
+Deletes a specified session if it exists
 */
 function deleteSession(req, res, next) {
+    //get token file
     let token = req.params.sessionid;
     let file = sessionFolder + "/" + token + ".json";
         
@@ -250,13 +271,13 @@ function deleteSession(req, res, next) {
         console.log("Session " + token + " removed")
         
         //send success status
-        res.writeHead(200, {"Content-Type": "text/plain"}});
+        res.writeHead(200, {"Content-Type": "text/plain"});
         res.write("Session successfully deleted");
         res.end();
     }
     //session did not exist, send 404
     catch(err) {
-        res.writeHead(404, {"Content-Type": "text/plain"}});
+        res.writeHead(404, {"Content-Type": "text/plain"});
         res.write("Session does not exist");
         res.end();
     }
