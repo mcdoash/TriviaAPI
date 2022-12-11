@@ -4,7 +4,7 @@
   "description": "An api for generating trivia question data",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "package-lock.json": "^1.0.0",
     "uuid": "^3.3.3"
   },
